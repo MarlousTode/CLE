@@ -2,7 +2,7 @@
 Inspiration for contextual learning environment (CLE)
 
 ## CLE 1 - RoboBattle
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NNa1BzYeKrA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=NNa1BzYeKrA
 
 ## CLE2 - Web
 
